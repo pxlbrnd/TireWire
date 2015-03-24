@@ -8,3 +8,7 @@ TO DO
 
 - First outdoor test with front tire
 - convert hardware and software to back tire; Reed switch or Hall sensor instead of sonar sensor - done
+
+Log
+===
+http://pxlbrnd.no-ip.org/projects/tirewire.html
